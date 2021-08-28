@@ -1,4 +1,4 @@
-- # This is an <**Hi there, I’m Uttam 👋**> tag
+- #<**Hi there,I’m Uttam👋**>
 An undergraduate student of Electronics & Communication Engineering at NIT Agartala. Since my childhood I always have a curisoty & deep passion for Technology . I'm currently into Data Structures & Algorithm, and would love to collaborate on Amazing Projects. :)
 
 ![##This is an <**Tech Stack**> tag](https://raw.githubusercontent.com/ritcode/ritcode/main/Developer.gif)
